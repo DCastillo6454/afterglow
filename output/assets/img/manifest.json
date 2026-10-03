@@ -1,0 +1,1018 @@
+{
+  "logo": {
+    "source": "Images/MAIN LOGO.JPG",
+    "width": 1774,
+    "height": 887,
+    "alpha": true,
+    "files": [
+      {
+        "file": "logo-480.webp",
+        "bytes": 22622
+      },
+      {
+        "file": "logo-480.avif",
+        "bytes": 8536
+      },
+      {
+        "file": "logo-960.webp",
+        "bytes": 65204
+      },
+      {
+        "file": "logo-960.avif",
+        "bytes": 18419
+      },
+      {
+        "file": "logo-1440.webp",
+        "bytes": 141952
+      },
+      {
+        "file": "logo-1440.avif",
+        "bytes": 30420
+      }
+    ]
+  },
+  "hero-art": {
+    "source": "Website UI/mobile-hero.png",
+    "width": 941,
+    "height": 1672,
+    "alpha": false,
+    "files": [
+      {
+        "file": "hero-art-480.webp",
+        "bytes": 58352
+      },
+      {
+        "file": "hero-art-480.avif",
+        "bytes": 48771
+      },
+      {
+        "file": "hero-art-720.webp",
+        "bytes": 119920
+      },
+      {
+        "file": "hero-art-720.avif",
+        "bytes": 95427
+      },
+      {
+        "file": "hero-art-941.webp",
+        "bytes": 180362
+      },
+      {
+        "file": "hero-art-941.avif",
+        "bytes": 137960
+      }
+    ]
+  },
+  "vyra-nor": {
+    "source": "Marketing/vyra-nor-artist.png",
+    "width": 1774,
+    "height": 887,
+    "alpha": false,
+    "files": [
+      {
+        "file": "vyra-nor-640.webp",
+        "bytes": 45880
+      },
+      {
+        "file": "vyra-nor-640.avif",
+        "bytes": 44054
+      },
+      {
+        "file": "vyra-nor-1024.webp",
+        "bytes": 103098
+      },
+      {
+        "file": "vyra-nor-1024.avif",
+        "bytes": 91394
+      },
+      {
+        "file": "vyra-nor-1440.webp",
+        "bytes": 175618
+      },
+      {
+        "file": "vyra-nor-1440.avif",
+        "bytes": 145835
+      },
+      {
+        "file": "vyra-nor-1774.webp",
+        "bytes": 235326
+      },
+      {
+        "file": "vyra-nor-1774.avif",
+        "bytes": 190198
+      }
+    ]
+  },
+  "artist-nightdrive": {
+    "source": "Images/ARTISTS/NIGHTDRIVE.JPG",
+    "width": 1774,
+    "height": 887,
+    "alpha": false,
+    "files": [
+      {
+        "file": "artist-nightdrive-480.webp",
+        "bytes": 23004
+      },
+      {
+        "file": "artist-nightdrive-480.avif",
+        "bytes": 21558
+      },
+      {
+        "file": "artist-nightdrive-800.webp",
+        "bytes": 54954
+      },
+      {
+        "file": "artist-nightdrive-800.avif",
+        "bytes": 48554
+      },
+      {
+        "file": "artist-nightdrive-1200.webp",
+        "bytes": 110198
+      },
+      {
+        "file": "artist-nightdrive-1200.avif",
+        "bytes": 92913
+      }
+    ]
+  },
+  "artist-luna-vex": {
+    "source": "Images/ARTISTS/LUNA VEX.JPG",
+    "width": 1774,
+    "height": 887,
+    "alpha": false,
+    "files": [
+      {
+        "file": "artist-luna-vex-480.webp",
+        "bytes": 25454
+      },
+      {
+        "file": "artist-luna-vex-480.avif",
+        "bytes": 22614
+      },
+      {
+        "file": "artist-luna-vex-800.webp",
+        "bytes": 61748
+      },
+      {
+        "file": "artist-luna-vex-800.avif",
+        "bytes": 52449
+      },
+      {
+        "file": "artist-luna-vex-1200.webp",
+        "bytes": 122392
+      },
+      {
+        "file": "artist-luna-vex-1200.avif",
+        "bytes": 98660
+      }
+    ]
+  },
+  "artist-kairo": {
+    "source": "Images/ARTISTS/KAIRO.JPG",
+    "width": 1774,
+    "height": 887,
+    "alpha": false,
+    "files": [
+      {
+        "file": "artist-kairo-480.webp",
+        "bytes": 21622
+      },
+      {
+        "file": "artist-kairo-480.avif",
+        "bytes": 18680
+      },
+      {
+        "file": "artist-kairo-800.webp",
+        "bytes": 49606
+      },
+      {
+        "file": "artist-kairo-800.avif",
+        "bytes": 40891
+      },
+      {
+        "file": "artist-kairo-1200.webp",
+        "bytes": 95324
+      },
+      {
+        "file": "artist-kairo-1200.avif",
+        "bytes": 75682
+      }
+    ]
+  },
+  "artist-jax-xen": {
+    "source": "Images/ARTISTS/JAX XEN.JPG",
+    "width": 1672,
+    "height": 941,
+    "alpha": false,
+    "files": [
+      {
+        "file": "artist-jax-xen-480.webp",
+        "bytes": 25784
+      },
+      {
+        "file": "artist-jax-xen-480.avif",
+        "bytes": 25793
+      },
+      {
+        "file": "artist-jax-xen-800.webp",
+        "bytes": 58796
+      },
+      {
+        "file": "artist-jax-xen-800.avif",
+        "bytes": 54228
+      },
+      {
+        "file": "artist-jax-xen-1200.webp",
+        "bytes": 108508
+      },
+      {
+        "file": "artist-jax-xen-1200.avif",
+        "bytes": 95207
+      }
+    ]
+  },
+  "artist-blkout": {
+    "source": "Images/ARTISTS/BLKOUT.JPG",
+    "width": 1774,
+    "height": 887,
+    "alpha": false,
+    "files": [
+      {
+        "file": "artist-blkout-480.webp",
+        "bytes": 26254
+      },
+      {
+        "file": "artist-blkout-480.avif",
+        "bytes": 24396
+      },
+      {
+        "file": "artist-blkout-800.webp",
+        "bytes": 64218
+      },
+      {
+        "file": "artist-blkout-800.avif",
+        "bytes": 56665
+      },
+      {
+        "file": "artist-blkout-1200.webp",
+        "bytes": 126684
+      },
+      {
+        "file": "artist-blkout-1200.avif",
+        "bytes": 109108
+      }
+    ]
+  },
+  "artist-ayla-rae": {
+    "source": "Images/ARTISTS/AYLA RAE.JPG",
+    "width": 1774,
+    "height": 887,
+    "alpha": false,
+    "files": [
+      {
+        "file": "artist-ayla-rae-480.webp",
+        "bytes": 25002
+      },
+      {
+        "file": "artist-ayla-rae-480.avif",
+        "bytes": 25351
+      },
+      {
+        "file": "artist-ayla-rae-800.webp",
+        "bytes": 62006
+      },
+      {
+        "file": "artist-ayla-rae-800.avif",
+        "bytes": 58446
+      },
+      {
+        "file": "artist-ayla-rae-1200.webp",
+        "bytes": 125434
+      },
+      {
+        "file": "artist-ayla-rae-1200.avif",
+        "bytes": 112159
+      }
+    ]
+  },
+  "lineup-poster": {
+    "source": "Marketing/lineup-poster.png",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "files": [
+      {
+        "file": "lineup-poster-480.webp",
+        "bytes": 80388
+      },
+      {
+        "file": "lineup-poster-480.avif",
+        "bytes": 80749
+      },
+      {
+        "file": "lineup-poster-800.webp",
+        "bytes": 183808
+      },
+      {
+        "file": "lineup-poster-800.avif",
+        "bytes": 168979
+      },
+      {
+        "file": "lineup-poster-1024.webp",
+        "bytes": 268390
+      },
+      {
+        "file": "lineup-poster-1024.avif",
+        "bytes": 236025
+      }
+    ]
+  },
+  "hero-poster": {
+    "source": "Marketing/hero-poster.png",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "files": [
+      {
+        "file": "hero-poster-480.webp",
+        "bytes": 78374
+      },
+      {
+        "file": "hero-poster-480.avif",
+        "bytes": 78281
+      },
+      {
+        "file": "hero-poster-800.webp",
+        "bytes": 184166
+      },
+      {
+        "file": "hero-poster-800.avif",
+        "bytes": 165822
+      },
+      {
+        "file": "hero-poster-1024.webp",
+        "bytes": 270198
+      },
+      {
+        "file": "hero-poster-1024.avif",
+        "bytes": 232059
+      }
+    ]
+  },
+  "pass-ga": {
+    "source": "Ticketing + Maps/pass-ga.png",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "files": [
+      {
+        "file": "pass-ga-320.webp",
+        "bytes": 27624
+      },
+      {
+        "file": "pass-ga-320.avif",
+        "bytes": 26210
+      },
+      {
+        "file": "pass-ga-520.webp",
+        "bytes": 65054
+      },
+      {
+        "file": "pass-ga-520.avif",
+        "bytes": 57761
+      },
+      {
+        "file": "pass-ga-800.webp",
+        "bytes": 139964
+      },
+      {
+        "file": "pass-ga-800.avif",
+        "bytes": 117380
+      }
+    ]
+  },
+  "pass-ga-plus": {
+    "source": "Ticketing + Maps/pass-ga-plus.png",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "files": [
+      {
+        "file": "pass-ga-plus-320.webp",
+        "bytes": 30252
+      },
+      {
+        "file": "pass-ga-plus-320.avif",
+        "bytes": 28857
+      },
+      {
+        "file": "pass-ga-plus-520.webp",
+        "bytes": 69470
+      },
+      {
+        "file": "pass-ga-plus-520.avif",
+        "bytes": 61311
+      },
+      {
+        "file": "pass-ga-plus-800.webp",
+        "bytes": 148018
+      },
+      {
+        "file": "pass-ga-plus-800.avif",
+        "bytes": 125294
+      }
+    ]
+  },
+  "pass-vip": {
+    "source": "Ticketing + Maps/pass-vip.png",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "files": [
+      {
+        "file": "pass-vip-320.webp",
+        "bytes": 30872
+      },
+      {
+        "file": "pass-vip-320.avif",
+        "bytes": 28916
+      },
+      {
+        "file": "pass-vip-520.webp",
+        "bytes": 72242
+      },
+      {
+        "file": "pass-vip-520.avif",
+        "bytes": 64286
+      },
+      {
+        "file": "pass-vip-800.webp",
+        "bytes": 154338
+      },
+      {
+        "file": "pass-vip-800.avif",
+        "bytes": 130473
+      }
+    ]
+  },
+  "pass-3-day": {
+    "source": "Ticketing + Maps/pass-3-day.png",
+    "width": 1024,
+    "height": 1536,
+    "alpha": false,
+    "files": [
+      {
+        "file": "pass-3-day-320.webp",
+        "bytes": 28738
+      },
+      {
+        "file": "pass-3-day-320.avif",
+        "bytes": 27668
+      },
+      {
+        "file": "pass-3-day-520.webp",
+        "bytes": 64974
+      },
+      {
+        "file": "pass-3-day-520.avif",
+        "bytes": 58998
+      },
+      {
+        "file": "pass-3-day-800.webp",
+        "bytes": 139730
+      },
+      {
+        "file": "pass-3-day-800.avif",
+        "bytes": 126019
+      }
+    ]
+  },
+  "wristbands": {
+    "source": "Ticketing + Maps/wristbands.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false,
+    "files": [
+      {
+        "file": "wristbands-640.webp",
+        "bytes": 44678
+      },
+      {
+        "file": "wristbands-640.avif",
+        "bytes": 40831
+      },
+      {
+        "file": "wristbands-1024.webp",
+        "bytes": 113530
+      },
+      {
+        "file": "wristbands-1024.avif",
+        "bytes": 102423
+      },
+      {
+        "file": "wristbands-1536.webp",
+        "bytes": 231300
+      },
+      {
+        "file": "wristbands-1536.avif",
+        "bytes": 196148
+      }
+    ]
+  },
+  "festival-map": {
+    "source": "Ticketing + Maps/festival-map.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false,
+    "files": [
+      {
+        "file": "festival-map-768.webp",
+        "bytes": 101740
+      },
+      {
+        "file": "festival-map-768.avif",
+        "bytes": 103996
+      },
+      {
+        "file": "festival-map-1152.webp",
+        "bytes": 205018
+      },
+      {
+        "file": "festival-map-1152.avif",
+        "bytes": 195910
+      },
+      {
+        "file": "festival-map-1536.webp",
+        "bytes": 330120
+      },
+      {
+        "file": "festival-map-1536.avif",
+        "bytes": 292459
+      }
+    ]
+  },
+  "shirt-eclipse": {
+    "source": "Merchandise/shirt-eclipse.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false,
+    "files": [
+      {
+        "file": "shirt-eclipse-480.webp",
+        "bytes": 10362
+      },
+      {
+        "file": "shirt-eclipse-480.avif",
+        "bytes": 7922
+      },
+      {
+        "file": "shirt-eclipse-800.webp",
+        "bytes": 26616
+      },
+      {
+        "file": "shirt-eclipse-800.avif",
+        "bytes": 18903
+      },
+      {
+        "file": "shirt-eclipse-1200.webp",
+        "bytes": 61370
+      },
+      {
+        "file": "shirt-eclipse-1200.avif",
+        "bytes": 40882
+      }
+    ]
+  },
+  "shirt-desert": {
+    "source": "Merchandise/shirt-desert.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false,
+    "files": [
+      {
+        "file": "shirt-desert-480.webp",
+        "bytes": 12908
+      },
+      {
+        "file": "shirt-desert-480.avif",
+        "bytes": 9459
+      },
+      {
+        "file": "shirt-desert-800.webp",
+        "bytes": 38920
+      },
+      {
+        "file": "shirt-desert-800.avif",
+        "bytes": 26614
+      },
+      {
+        "file": "shirt-desert-1200.webp",
+        "bytes": 95702
+      },
+      {
+        "file": "shirt-desert-1200.avif",
+        "bytes": 64932
+      }
+    ]
+  },
+  "hoodie": {
+    "source": "Merchandise/hoodie.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false,
+    "files": [
+      {
+        "file": "hoodie-480.webp",
+        "bytes": 10134
+      },
+      {
+        "file": "hoodie-480.avif",
+        "bytes": 7875
+      },
+      {
+        "file": "hoodie-800.webp",
+        "bytes": 25958
+      },
+      {
+        "file": "hoodie-800.avif",
+        "bytes": 19024
+      },
+      {
+        "file": "hoodie-1200.webp",
+        "bytes": 62944
+      },
+      {
+        "file": "hoodie-1200.avif",
+        "bytes": 41242
+      }
+    ]
+  },
+  "hat": {
+    "source": "Merchandise/hat.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false,
+    "files": [
+      {
+        "file": "hat-480.webp",
+        "bytes": 8782
+      },
+      {
+        "file": "hat-480.avif",
+        "bytes": 6223
+      },
+      {
+        "file": "hat-800.webp",
+        "bytes": 24948
+      },
+      {
+        "file": "hat-800.avif",
+        "bytes": 15347
+      },
+      {
+        "file": "hat-1200.webp",
+        "bytes": 62858
+      },
+      {
+        "file": "hat-1200.avif",
+        "bytes": 35870
+      }
+    ]
+  },
+  "bandana": {
+    "source": "Merchandise/bandana.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": false,
+    "files": [
+      {
+        "file": "bandana-480.webp",
+        "bytes": 47952
+      },
+      {
+        "file": "bandana-480.avif",
+        "bytes": 38347
+      },
+      {
+        "file": "bandana-800.webp",
+        "bytes": 131640
+      },
+      {
+        "file": "bandana-800.avif",
+        "bytes": 96247
+      },
+      {
+        "file": "bandana-1200.webp",
+        "bytes": 288782
+      },
+      {
+        "file": "bandana-1200.avif",
+        "bytes": 195521
+      }
+    ]
+  },
+  "tote": {
+    "source": "Merchandise/tote.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false,
+    "files": [
+      {
+        "file": "tote-480.webp",
+        "bytes": 14982
+      },
+      {
+        "file": "tote-480.avif",
+        "bytes": 11861
+      },
+      {
+        "file": "tote-800.webp",
+        "bytes": 37040
+      },
+      {
+        "file": "tote-800.avif",
+        "bytes": 27070
+      },
+      {
+        "file": "tote-1200.webp",
+        "bytes": 86602
+      },
+      {
+        "file": "tote-1200.avif",
+        "bytes": 59843
+      }
+    ]
+  },
+  "bottle": {
+    "source": "Merchandise/bottle.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false,
+    "files": [
+      {
+        "file": "bottle-480.webp",
+        "bytes": 9462
+      },
+      {
+        "file": "bottle-480.avif",
+        "bytes": 6483
+      },
+      {
+        "file": "bottle-800.webp",
+        "bytes": 25234
+      },
+      {
+        "file": "bottle-800.avif",
+        "bytes": 16970
+      },
+      {
+        "file": "bottle-1200.webp",
+        "bytes": 53676
+      },
+      {
+        "file": "bottle-1200.avif",
+        "bytes": 35502
+      }
+    ]
+  },
+  "stickers": {
+    "source": "Merchandise/stickers.png",
+    "width": 1024,
+    "height": 1536,
+    "alpha": true,
+    "files": [
+      {
+        "file": "stickers-400.webp",
+        "bytes": 61120
+      },
+      {
+        "file": "stickers-400.avif",
+        "bytes": 42597
+      },
+      {
+        "file": "stickers-680.webp",
+        "bytes": 132132
+      },
+      {
+        "file": "stickers-680.avif",
+        "bytes": 87111
+      },
+      {
+        "file": "stickers-1024.webp",
+        "bytes": 229818
+      },
+      {
+        "file": "stickers-1024.avif",
+        "bytes": 125933
+      }
+    ]
+  },
+  "food-vendors": {
+    "source": "Brand World/food-vendors.png",
+    "width": 1402,
+    "height": 1122,
+    "alpha": false,
+    "files": [
+      {
+        "file": "food-vendors-560.webp",
+        "bytes": 31376
+      },
+      {
+        "file": "food-vendors-560.avif",
+        "bytes": 30018
+      },
+      {
+        "file": "food-vendors-900.webp",
+        "bytes": 63552
+      },
+      {
+        "file": "food-vendors-900.avif",
+        "bytes": 56996
+      },
+      {
+        "file": "food-vendors-1402.webp",
+        "bytes": 123512
+      },
+      {
+        "file": "food-vendors-1402.avif",
+        "bytes": 97719
+      }
+    ]
+  },
+  "concept-sponsors": {
+    "source": "Brand World/concept-sponsors.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": false,
+    "files": [
+      {
+        "file": "concept-sponsors-560.webp",
+        "bytes": 20770
+      },
+      {
+        "file": "concept-sponsors-560.avif",
+        "bytes": 17864
+      },
+      {
+        "file": "concept-sponsors-900.webp",
+        "bytes": 40350
+      },
+      {
+        "file": "concept-sponsors-900.avif",
+        "bytes": 32463
+      },
+      {
+        "file": "concept-sponsors-1400.webp",
+        "bytes": 76050
+      },
+      {
+        "file": "concept-sponsors-1400.avif",
+        "bytes": 57326
+      }
+    ]
+  },
+  "confirmation-ticket": {
+    "source": "Brand World/confirmation-ticket.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": false,
+    "files": [
+      {
+        "file": "confirmation-ticket-480.webp",
+        "bytes": 41712
+      },
+      {
+        "file": "confirmation-ticket-480.avif",
+        "bytes": 39037
+      },
+      {
+        "file": "confirmation-ticket-800.webp",
+        "bytes": 101640
+      },
+      {
+        "file": "confirmation-ticket-800.avif",
+        "bytes": 90283
+      }
+    ]
+  },
+  "confirmation-signup": {
+    "source": "Brand World/confirmation-signup.png",
+    "width": 1254,
+    "height": 1254,
+    "alpha": false,
+    "files": [
+      {
+        "file": "confirmation-signup-480.webp",
+        "bytes": 34490
+      },
+      {
+        "file": "confirmation-signup-480.avif",
+        "bytes": 33552
+      },
+      {
+        "file": "confirmation-signup-800.webp",
+        "bytes": 83390
+      },
+      {
+        "file": "confirmation-signup-800.avif",
+        "bytes": 76269
+      }
+    ]
+  },
+  "overlay-dust": {
+    "source": "Brand World/overlay-dust.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "files": [
+      {
+        "file": "overlay-dust-960.webp",
+        "bytes": 234620
+      },
+      {
+        "file": "overlay-dust-960.avif",
+        "bytes": 97515
+      },
+      {
+        "file": "overlay-dust-1536.webp",
+        "bytes": 535988
+      },
+      {
+        "file": "overlay-dust-1536.avif",
+        "bytes": 147779
+      }
+    ]
+  },
+  "overlay-smoke": {
+    "source": "Brand World/overlay-smoke.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "files": [
+      {
+        "file": "overlay-smoke-960.webp",
+        "bytes": 197140
+      },
+      {
+        "file": "overlay-smoke-960.avif",
+        "bytes": 75474
+      },
+      {
+        "file": "overlay-smoke-1536.webp",
+        "bytes": 447022
+      },
+      {
+        "file": "overlay-smoke-1536.avif",
+        "bytes": 106043
+      }
+    ]
+  },
+  "overlay-sparks": {
+    "source": "Brand World/overlay-sparks.png",
+    "width": 1536,
+    "height": 1024,
+    "alpha": true,
+    "files": [
+      {
+        "file": "overlay-sparks-960.webp",
+        "bytes": 141184
+      },
+      {
+        "file": "overlay-sparks-960.avif",
+        "bytes": 46118
+      },
+      {
+        "file": "overlay-sparks-1536.webp",
+        "bytes": 293940
+      },
+      {
+        "file": "overlay-sparks-1536.avif",
+        "bytes": 27711
+      }
+    ]
+  },
+  "overlay-light": {
+    "source": "Brand World/overlay-light.png",
+    "width": 2172,
+    "height": 724,
+    "alpha": true,
+    "files": [
+      {
+        "file": "overlay-light-1200.webp",
+        "bytes": 89026
+      },
+      {
+        "file": "overlay-light-1200.avif",
+        "bytes": 37424
+      },
+      {
+        "file": "overlay-light-2172.webp",
+        "bytes": 254410
+      },
+      {
+        "file": "overlay-light-2172.avif",
+        "bytes": 90208
+      }
+    ]
+  }
+}

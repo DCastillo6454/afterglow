@@ -1,0 +1,503 @@
+{
+  "project": "AFTERGLOW",
+  "edition": "Concept asset collection",
+  "headliner": "VYRA NOR",
+  "pathBase": "project root",
+  "assets": [
+    {
+      "path": "Images/ARTISTS/AYLA RAE.JPG",
+      "category": "Images",
+      "bytes": 2547622,
+      "extension": ".jpg",
+      "width": 1774,
+      "height": 887,
+      "alphaChannel": false
+    },
+    {
+      "path": "Images/ARTISTS/BLKOUT.JPG",
+      "category": "Images",
+      "bytes": 2565533,
+      "extension": ".jpg",
+      "width": 1774,
+      "height": 887,
+      "alphaChannel": false
+    },
+    {
+      "path": "Images/ARTISTS/JAX XEN.JPG",
+      "category": "Images",
+      "bytes": 2347204,
+      "extension": ".jpg",
+      "width": 1672,
+      "height": 941,
+      "alphaChannel": false
+    },
+    {
+      "path": "Images/ARTISTS/KAIRO.JPG",
+      "category": "Images",
+      "bytes": 2261124,
+      "extension": ".jpg",
+      "width": 1774,
+      "height": 887,
+      "alphaChannel": false
+    },
+    {
+      "path": "Images/ARTISTS/LUNA VEX.JPG",
+      "category": "Images",
+      "bytes": 2376694,
+      "extension": ".jpg",
+      "width": 1774,
+      "height": 887,
+      "alphaChannel": false
+    },
+    {
+      "path": "Images/ARTISTS/NIGHTDRIVE.JPG",
+      "category": "Images",
+      "bytes": 2315724,
+      "extension": ".jpg",
+      "width": 1774,
+      "height": 887,
+      "alphaChannel": false
+    },
+    {
+      "path": "Images/COLOR-TYPOGRAPHY.JPG",
+      "category": "Images",
+      "bytes": 1199642,
+      "extension": ".jpg",
+      "width": 1122,
+      "height": 1402,
+      "alphaChannel": false
+    },
+    {
+      "path": "Images/ELEMENTS & TEXTURES.JPG",
+      "category": "Images",
+      "bytes": 1868758,
+      "extension": ".jpg",
+      "width": 1774,
+      "height": 887,
+      "alphaChannel": false
+    },
+    {
+      "path": "Images/ICON SYSTEMS.JPG",
+      "category": "Images",
+      "bytes": 1323521,
+      "extension": ".jpg",
+      "width": 1122,
+      "height": 1402,
+      "alphaChannel": false
+    },
+    {
+      "path": "Images/MAIN LOGO.JPG",
+      "category": "Images",
+      "bytes": 1442129,
+      "extension": ".jpg",
+      "width": 1774,
+      "height": 887,
+      "alphaChannel": true
+    },
+    {
+      "path": "Ticketing + Maps/festival-map.png",
+      "category": "Ticketing + Maps",
+      "bytes": 3024862,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": false
+    },
+    {
+      "path": "Ticketing + Maps/map-legend.png",
+      "category": "Ticketing + Maps",
+      "bytes": 1861665,
+      "extension": ".png",
+      "width": 1024,
+      "height": 1536,
+      "alphaChannel": false
+    },
+    {
+      "path": "Ticketing + Maps/map-pins.png",
+      "category": "Ticketing + Maps",
+      "bytes": 2009506,
+      "extension": ".png",
+      "width": 1448,
+      "height": 1086,
+      "alphaChannel": true
+    },
+    {
+      "path": "Ticketing + Maps/pass-3-day.png",
+      "category": "Ticketing + Maps",
+      "bytes": 2455237,
+      "extension": ".png",
+      "width": 1024,
+      "height": 1536,
+      "alphaChannel": false
+    },
+    {
+      "path": "Ticketing + Maps/pass-ga-plus.png",
+      "category": "Ticketing + Maps",
+      "bytes": 2348801,
+      "extension": ".png",
+      "width": 1024,
+      "height": 1536,
+      "alphaChannel": false
+    },
+    {
+      "path": "Ticketing + Maps/pass-ga.png",
+      "category": "Ticketing + Maps",
+      "bytes": 2382608,
+      "extension": ".png",
+      "width": 1024,
+      "height": 1536,
+      "alphaChannel": false
+    },
+    {
+      "path": "Ticketing + Maps/pass-vip.png",
+      "category": "Ticketing + Maps",
+      "bytes": 2483142,
+      "extension": ".png",
+      "width": 1024,
+      "height": 1536,
+      "alphaChannel": false
+    },
+    {
+      "path": "Ticketing + Maps/README.md",
+      "category": "Ticketing + Maps",
+      "bytes": 9507,
+      "extension": ".md"
+    },
+    {
+      "path": "Ticketing + Maps/wristbands.png",
+      "category": "Ticketing + Maps",
+      "bytes": 2470285,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": false
+    },
+    {
+      "path": "Merchandise/bandana.png",
+      "category": "Merchandise",
+      "bytes": 3098452,
+      "extension": ".png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": false
+    },
+    {
+      "path": "Merchandise/bottle.png",
+      "category": "Merchandise",
+      "bytes": 2032454,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": false
+    },
+    {
+      "path": "Merchandise/hat.png",
+      "category": "Merchandise",
+      "bytes": 2323353,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": false
+    },
+    {
+      "path": "Merchandise/hoodie.png",
+      "category": "Merchandise",
+      "bytes": 2401006,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": false
+    },
+    {
+      "path": "Merchandise/README.md",
+      "category": "Merchandise",
+      "bytes": 11585,
+      "extension": ".md"
+    },
+    {
+      "path": "Merchandise/shirt-desert.png",
+      "category": "Merchandise",
+      "bytes": 2638965,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": false
+    },
+    {
+      "path": "Merchandise/shirt-eclipse.png",
+      "category": "Merchandise",
+      "bytes": 2422681,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": false
+    },
+    {
+      "path": "Merchandise/stickers.png",
+      "category": "Merchandise",
+      "bytes": 2248586,
+      "extension": ".png",
+      "width": 1024,
+      "height": 1536,
+      "alphaChannel": true
+    },
+    {
+      "path": "Merchandise/tote.png",
+      "category": "Merchandise",
+      "bytes": 2643875,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": false
+    },
+    {
+      "path": "Marketing/countdown.png",
+      "category": "Marketing",
+      "bytes": 2710331,
+      "extension": ".png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": false
+    },
+    {
+      "path": "Marketing/hero-poster.png",
+      "category": "Marketing",
+      "bytes": 2747618,
+      "extension": ".png",
+      "width": 1024,
+      "height": 1536,
+      "alphaChannel": false
+    },
+    {
+      "path": "Marketing/instagram-post.png",
+      "category": "Marketing",
+      "bytes": 2751368,
+      "extension": ".png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": false
+    },
+    {
+      "path": "Marketing/instagram-story.png",
+      "category": "Marketing",
+      "bytes": 2682380,
+      "extension": ".png",
+      "width": 941,
+      "height": 1672,
+      "alphaChannel": false
+    },
+    {
+      "path": "Marketing/lineup-poster.png",
+      "category": "Marketing",
+      "bytes": 2595300,
+      "extension": ".png",
+      "width": 1024,
+      "height": 1536,
+      "alphaChannel": false
+    },
+    {
+      "path": "Marketing/open-graph.png",
+      "category": "Marketing",
+      "bytes": 2715445,
+      "extension": ".png",
+      "width": 1733,
+      "height": 908,
+      "alphaChannel": false
+    },
+    {
+      "path": "Marketing/README.md",
+      "category": "Marketing",
+      "bytes": 10204,
+      "extension": ".md"
+    },
+    {
+      "path": "Marketing/ticket-sale.png",
+      "category": "Marketing",
+      "bytes": 2804934,
+      "extension": ".png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": false
+    },
+    {
+      "path": "Marketing/vyra-nor-artist.png",
+      "category": "Marketing",
+      "bytes": 2587677,
+      "extension": ".png",
+      "width": 1774,
+      "height": 887,
+      "alphaChannel": false
+    },
+    {
+      "path": "Website UI/afterglow-ui.css",
+      "category": "Website UI",
+      "bytes": 3316,
+      "extension": ".css"
+    },
+    {
+      "path": "Website UI/afterglow-ui.js",
+      "category": "Website UI",
+      "bytes": 880,
+      "extension": ".js"
+    },
+    {
+      "path": "Website UI/cursor-spark.svg",
+      "category": "Website UI",
+      "bytes": 164,
+      "extension": ".svg"
+    },
+    {
+      "path": "Website UI/divider-angle.svg",
+      "category": "Website UI",
+      "bytes": 425,
+      "extension": ".svg"
+    },
+    {
+      "path": "Website UI/divider-orbit.svg",
+      "category": "Website UI",
+      "bytes": 491,
+      "extension": ".svg"
+    },
+    {
+      "path": "Website UI/divider-spectrum.svg",
+      "category": "Website UI",
+      "bytes": 507,
+      "extension": ".svg"
+    },
+    {
+      "path": "Website UI/eclipse-loader.svg",
+      "category": "Website UI",
+      "bytes": 722,
+      "extension": ".svg"
+    },
+    {
+      "path": "Website UI/glow-green.svg",
+      "category": "Website UI",
+      "bytes": 311,
+      "extension": ".svg"
+    },
+    {
+      "path": "Website UI/glow-purple.svg",
+      "category": "Website UI",
+      "bytes": 311,
+      "extension": ".svg"
+    },
+    {
+      "path": "Website UI/mobile-hero.png",
+      "category": "Website UI",
+      "bytes": 2260795,
+      "extension": ".png",
+      "width": 941,
+      "height": 1672,
+      "alphaChannel": false
+    },
+    {
+      "path": "Website UI/preview.html",
+      "category": "Website UI",
+      "bytes": 4262,
+      "extension": ".html"
+    },
+    {
+      "path": "Website UI/README.md",
+      "category": "Website UI",
+      "bytes": 2040,
+      "extension": ".md"
+    },
+    {
+      "path": "Brand World/concept-sponsors.png",
+      "category": "Brand World",
+      "bytes": 1333684,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": false
+    },
+    {
+      "path": "Brand World/confirmation-signup.png",
+      "category": "Brand World",
+      "bytes": 2200199,
+      "extension": ".png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": false
+    },
+    {
+      "path": "Brand World/confirmation-ticket.png",
+      "category": "Brand World",
+      "bytes": 2431872,
+      "extension": ".png",
+      "width": 1254,
+      "height": 1254,
+      "alphaChannel": false
+    },
+    {
+      "path": "Brand World/email-header-lineup.png",
+      "category": "Brand World",
+      "bytes": 2335764,
+      "extension": ".png",
+      "width": 2172,
+      "height": 724,
+      "alphaChannel": false
+    },
+    {
+      "path": "Brand World/email-header-welcome.png",
+      "category": "Brand World",
+      "bytes": 2312644,
+      "extension": ".png",
+      "width": 2172,
+      "height": 724,
+      "alphaChannel": false
+    },
+    {
+      "path": "Brand World/food-vendors.png",
+      "category": "Brand World",
+      "bytes": 1605205,
+      "extension": ".png",
+      "width": 1402,
+      "height": 1122,
+      "alphaChannel": false
+    },
+    {
+      "path": "Brand World/overlay-dust.png",
+      "category": "Brand World",
+      "bytes": 2367340,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": true
+    },
+    {
+      "path": "Brand World/overlay-light.png",
+      "category": "Brand World",
+      "bytes": 879684,
+      "extension": ".png",
+      "width": 2172,
+      "height": 724,
+      "alphaChannel": true
+    },
+    {
+      "path": "Brand World/overlay-smoke.png",
+      "category": "Brand World",
+      "bytes": 2434707,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": true
+    },
+    {
+      "path": "Brand World/overlay-sparks.png",
+      "category": "Brand World",
+      "bytes": 1817499,
+      "extension": ".png",
+      "width": 1536,
+      "height": 1024,
+      "alphaChannel": true
+    },
+    {
+      "path": "Brand World/README.md",
+      "category": "Brand World",
+      "bytes": 11611,
+      "extension": ".md"
+    }
+  ]
+}
